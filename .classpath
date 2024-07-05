@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/Sourav/Documents/hive-service-2.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sourav/Documents/hive-service-rpc-2.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sourav/Documents/hive-jdbc-2.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sourav/Documents/libthrift-0.9.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sourav/Documents/commons-httpclient-3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sourav/Documents/httpclient-4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sourav/Documents/httpcore-4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sourav/Documents/log4j-slf4j-impl-2.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sourav/Downloads/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sourav/Documents/log4j-api-2.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sourav/Documents/log4j-core-2.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sourav/Documents/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sourav/Documents/hadoop-common-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sourav/Documents/hive-common-2.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sourav/Downloads/protobuf-java-2.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sourav/Documents/hive-serde-2.1.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
